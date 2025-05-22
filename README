@@ -1,1 +1,3 @@
-<h1> test CICD html page package </h1>
+<h1> test CICD html page package <h1>
+test sample html homepage 
+Dockerfile 로 컨테이너 이미지를 만들 때 해당 디렉토리에 .war 파일이 존재해야한다!!!
